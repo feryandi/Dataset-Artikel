@@ -21,7 +21,7 @@ Contohnya `json/2018/05/02/02/1525226400000.cnn-indonesia.fe5490cb31.json` meruj
 
 ### Statistik
 ##### Jumlah Artikel
-Artikel diambil dari untuk rentang waktu 01 Januari 2018 hingga 31 Mei 2018 (dan akan terus bertambah karena sistem melakukan pengambilan otomatis) untuk media-media berikut:
+Artikel diambil dari untuk rentang waktu 01 Januari 2018 hingga 20 Agustus 2018 untuk media-media berikut:
 <table>
 <colgroup>
   <col style="text-align:left;"/>
